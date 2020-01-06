@@ -35,6 +35,8 @@ a {
 }
 
 .bg-1 {
+    background-image: url("https://media.giphy.com/media/YS7BctOtlyed2/giphy.gif");
+    background-size:cover;
     background-color: #ffffff; /* White */
     color: #555555;
 }
